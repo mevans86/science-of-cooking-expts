@@ -1,0 +1,13 @@
+name: science-of-cooking-expts-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pip
+  - pip:
+    - pandas
+    - matplotlib
+    - ipysheet
+    - bqplot
