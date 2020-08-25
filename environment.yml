@@ -5,9 +5,4 @@ dependencies:
   - python
   - numpy
   - scipy
-  - pip
-  - pip:
-    - pandas
-    - matplotlib
-    - ipysheet
-    - bqplot
+  - matplotlib
